@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCDS Africa Online Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0; padding: 0;
+            background: #f3f6fa;
+            color: #222;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            padding: 32px;
+        }
+        h1, h2 {
+            color: #1a3867;
+        }
+        ul {
+            margin-top: 10px;
+        }
+        .section {
+            margin-bottom: 32px;
+        }
+        .whatsapp-link {
+            display: inline-block;
+            margin-top: 8px;
+            background: #25d366;
+            color: #fff;
+            padding: 10px 16px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact {
+            margin-top: 18px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 32px;
+            color: #888;
+            font-size: 0.95em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NCDS Africa Online Courses</h1>
+        <p>Unlock your future with expert-led online courses, available to anyone in Rwanda. Learn at your own pace and gain real-world skills!</p>
+        
+        <div class="section">
+            <h2>Popular Courses</h2>
+            <ul>
+                <li>Digital Marketing Fundamentals</li>
+                <li>Programming for Beginners</li>
+                <li>Business English</li>
+                <li>Entrepreneurship 101</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>How It Works</h2>
+            <ol>
+                <li><strong>Browse Courses:</strong> Choose the course that interests you.</li>
+                <li><strong>Pay Easily:</strong> Use MTN Mobile Money to pay for your course.</li>
+                <li><strong>Access Materials:</strong> Get instant access after payment confirmation.</li>
+            </ol>
+        </div>
+
+        <div class="section">
+            <h2>How to Pay with MTN Mobile Money (Rwanda)</h2>
+            <ol>
+                <li>Dial <strong>*182#</strong> on your MTN phone.</li>
+                <li>Select <strong>“Pay Bill”</strong>.</li>
+                <li>Enter our Merchant Code: <strong>079904</strong>.</li>
+                <li>Enter the amount for your chosen course.</li>
+                <li>Reference: Your full name.</li>
+                <li>Confirm and complete the payment.</li>
+            </ol>
+            <div class="contact">
+                <p>
+                    After payment, please email your payment confirmation and the course name to 
+                    <a href="mailto:a.ncds.africa@gmail.com">a.ncds.africa@gmail.com</a>
+                    or contact us on WhatsApp below.
+                </p>
+                <a class="whatsapp-link" href="https://wa.me/250783308710?text=I%20have%20paid%20for%20an%20online%20course%20via%20MTN%20Mobile%20Money%20and%20would%20like%20to%20access%20my%20course." target="_blank">
+                    Chat with Us on WhatsApp
+                </a>
+            </div>
+        </div>
+
+        <div class="footer">
+            &copy; 2026 NCDS Africa. All rights reserved.<br>
+            For automated payment links or website integration, contact us.
+        </div>
+    </div>
+</body>
+</html>
